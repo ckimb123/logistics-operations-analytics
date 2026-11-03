@@ -55,7 +55,7 @@ The on-time delivery rate was calculated using valid shipments only.
 
 ## Dashboard
 
-![Logistics Operations Performance Dashboard](DHL_Logistics_Dashboard.png)
+![Logistics Operations Performance Dashboard](Logistics_Dashboard.png)
 
 The dashboard contains three KPI cards and four visualizations:
 
